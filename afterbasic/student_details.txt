@@ -1,0 +1,23 @@
+name:  sivasakthi
+age:   22
+email: siva@gmail.com
+tamil: 88
+english: 77
+maths: 99
+physics:98
+chemistry: 87
+biology: 78
+total: 527
+average: 87.83333333333333
+
+name:  kumar
+age:   22
+email: kumar@gmail.com
+tamil: 89
+english: 84
+maths: 92
+physics:79
+chemistry: 94
+biology: 89
+total: 527
+average: 87.83333333333333

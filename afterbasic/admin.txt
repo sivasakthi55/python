@@ -1,0 +1,11 @@
+name:kumar
+account_no:101
+currect_balance:5421
+
+name:prasath
+account_no:102
+currect_balance:2154
+
+name:sivakumar
+phone_no:7896548975
+account_no:1007
