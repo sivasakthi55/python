@@ -9,9 +9,9 @@ while(a>0):
 print(c)
 
 if(b==c):
-  print("this number is correct")
+  print("this number is palindrome")
 else:
-  print("this number is not correct")
+  print("this number is not palindrome")
 '''
 
 c=0
