@@ -22,6 +22,12 @@ while(a>0):
    
     a//=10
 print(c)
+
+if c==b:
+    print("this number is Armstrong number")
+else:
+    print("this number not Armstrong number")
+
 '''
 
 c=0
